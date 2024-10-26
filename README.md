@@ -11,6 +11,7 @@ This project is a web-based image generator powered by Nvidia's Stable Diffusion
 ### Backend
 
 This app interacts with Nvidia's [Stable Diffusion XL API](https://build.nvidia.com/stabilityai/stable-diffusion-xl?snippet_tab=Node). For full usage of the Nvidia API, create an account and set up the API as shown in the link. This will give you access to the model and necessary configurations for generating images with Nvidia's capabilities.
+get an api key from that then put it inside a .env file .
 
 ## Usage
 
